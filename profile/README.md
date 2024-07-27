@@ -1,4 +1,4 @@
-## Hi there 👋
+## Liga Universitária de Navegação Autônoma e Robótica 👋
 
 <!--
 
