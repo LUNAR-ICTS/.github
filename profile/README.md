@@ -2,7 +2,7 @@
 
 ---
 
-### 🌟 O que é a LUNAR?
+### 🌟 O que é a LUNAR? <img src="https://avatars.githubusercontent.com/u/163191082?s=200&v=4" width="17" height="17"/>
 
 A Liga Universitária de Navegação Autônoma e Robótica (LUNAR) da UNESP Sorocaba, fundada em 2024, é uma instituição sem fins lucrativos que promove o desenvolvimento da robótica no campus. Nosso objetivo é oferecer aos estudantes da UNESP a chance de explorar e aprofundar-se em diversas áreas da robótica, incentivando inovação e conhecimento técnico.
 A LUNAR nasceu como um desdobramento da HumaMaquina, uma equipe de competição fundada em 2023. Nossa primeira participação foi na Competição Brasileira de Robótica (CBR) Salvador, na modalidade Very Small Size Soccer (VSSS). Após essa experiência, conseguimos fundar a LUNAR no câmpus sob a orientação do Professor Dr. Félix Maurício Escalante Ortega.
